@@ -1,0 +1,15 @@
+{
+    "coreProvider": {
+        "maestroToken": "u2jfgyWWQpfALJv3gcYdTMTQG8r9mvfy"
+    },
+    "networkId": "testnet-preprod",
+    "logging": [
+        {
+            "type": {
+                "tag": "stderr"
+            },
+            "severity": "Debug",
+            "verbosity": "V2"
+        }
+    ]
+}

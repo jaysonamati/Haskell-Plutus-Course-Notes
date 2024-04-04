@@ -1,0 +1,3 @@
+# Data Structures
+
+Everything in haskell is represented as a graph... 
